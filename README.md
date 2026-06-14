@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=999999&color=FF0000&center=true&vCenter=true&width=800&height=80&lines=DARP+LALANI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=1500&color=FF3333&center=true&vCenter=true&width=800&height=30&lines=root%40kali%3A~%23+whoami+--cyber-researcher;Threat+Detection+%7C+Digital+Forensics+%7C+Defensive+Tooling;Building+Tools+That+Protect%2C+Not+Exploit" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=1500&color=FF3333&center=true&vCenter=true&width=800&height=30&lines=root%40kali%3A~%23+whoami+--cybersecurity-enthusiast;Threat+Detection+%7C+Digital+Forensics+%7C+Defensive+Tooling;Building+Tools+That+Protect%2C+Not+Exploit" />
 
 <br/>
 
