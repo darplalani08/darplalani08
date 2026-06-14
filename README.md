@@ -1,23 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=DARP%20LALANI&fontSize=72&fontColor=6EE7B7&fontAlignY=42&fontAlign=50&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Defensive%20Tooling&descSize=16&descAlignY=62&descAlign=50&descColor=94a3b8&stroke=6EE7B7&strokeWidth=1&animation=fadeIn" width="100%"/>
+<!-- CYBERSECURITY THEMED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2438,100:0d1117&height=200&section=header&text=%3C%2F%3E%20DARP%20LALANI&fontSize=52&fontColor=6EE7B7&fontAlignY=45&fontAlign=50&desc=%5B%20Threat%20Detection%20%5D%20%5B%20Digital%20Forensics%20%5D%20%5B%20Defensive%20Tooling%20%5D&descSize=13&descAlignY=70&descAlign=50&descColor=94a3b8&stroke=6EE7B7&strokeWidth=0" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=6EE7B7&center=true&vCenter=true&width=750&height=38&lines=Threat+Detection+%7C+Network+Security+%7C+Digital+Forensics+%7C+WAF+Development;Building+Tools+That+Protect%2C+Not+Exploit+%E2%80%94+Every+Line%2C+Every+Time" />
+<!-- TERMINAL TYPING LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1200&color=6EE7B7&center=true&vCenter=true&width=750&height=36&lines=root%40darp%3A~%23+whoami+--security-researcher;Building+Tools+That+Protect%2C+Not+Exploit+%E2%80%94+Every+Line%2C+Every+Time;Threat+Detection+%7C+Network+Security+%7C+Digital+Forensics+%7C+WAF+Development" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-darplalani.me-6EE7B7?style=flat-square&labelColor=0d1f2d&color=0d3326)](https://darplalani.me)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-darplalani07-38bdf8?style=flat-square&labelColor=0d1f2d&color=0d2233)](https://linkedin.com/in/darplalani07)&nbsp;
-[![Email](https://img.shields.io/badge/◈%20Email-darplalani.me@gmail.com-6EE7B7?style=flat-square&labelColor=0d1f2d&color=0d3326)](mailto:darplalani.me@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/◈%20GitHub-darplalani08-38bdf8?style=flat-square&labelColor=0d1f2d&color=0d2233)](https://github.com/darplalani08)
+<!-- SOCIAL BADGES WITH LOGOS -->
+<a href="https://darplalani.me">
+  <img src="https://img.shields.io/badge/◈_Portfolio-darplalani.me-6EE7B7?style=for-the-badge&logo=firefoxbrowser&logoColor=6EE7B7&labelColor=0d1117&color=0d3326"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/darplalani07">
+  <img src="https://img.shields.io/badge/◈_LinkedIn-darplalani07-38bdf8?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=0d2233"/>
+</a>&nbsp;
+<a href="mailto:darplalani.me@gmail.com">
+  <img src="https://img.shields.io/badge/◈_Gmail-darplalani.me@gmail.com-6EE7B7?style=for-the-badge&logo=gmail&logoColor=6EE7B7&labelColor=0d1117&color=0d3326"/>
+</a>&nbsp;
+<a href="https://github.com/darplalani08">
+  <img src="https://img.shields.io/badge/◈_GitHub-darplalani08-e2e8f0?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=0d1117&color=161b22"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=darplalani08&style=flat-square&color=6EE7B7&label=PROFILE+VIEWS&labelColor=0d1f2d)](https://github.com/darplalani08)&nbsp;
-[![Followers](https://img.shields.io/github/followers/darplalani08?style=flat-square&color=6EE7B7&labelColor=0d1f2d&label=FOLLOWERS)](https://github.com/darplalani08)&nbsp;
-[![Stars](https://img.shields.io/github/stars/darplalani08?style=flat-square&color=6EE7B7&labelColor=0d1f2d&label=STARS)](https://github.com/darplalani08)
+<!-- PROFILE STATS ROW -->
+[![Profile Views](https://komarev.com/ghpvc/?username=darplalani08&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/darplalani08)&nbsp;
+[![Followers](https://img.shields.io/github/followers/darplalani08?style=for-the-badge&color=38bdf8&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=38bdf8)](https://github.com/darplalani08)&nbsp;
+[![Stars](https://img.shields.io/github/stars/darplalani08?style=for-the-badge&color=6EE7B7&labelColor=0d1117&label=TOTAL+STARS&logo=github&logoColor=6EE7B7)](https://github.com/darplalani08)
 
 </div>
 
@@ -25,20 +37,20 @@
 
 ---
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=darplalani08&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=94a3b8&icon_color=38bdf8&count_private=true&rank_icon=github"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=darplalani08&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=94a3b8&icon_color=38bdf8&count_private=true&rank_icon=github"/>
 
 ### `◈ ABOUT`
 
-CS Engineering student at **Symbiosis Institute of Technology, Pune** — specializing in **Cybersecurity and Digital Forensics**. I build tools for detection, investigation, and mitigation — not exploitation.
+CS Engineering student at **Symbiosis Institute of Technology, Pune** — specialising in **Cybersecurity and Digital Forensics**. I build tools for detection, investigation, and mitigation — not exploitation.
 
 Active researcher at **DeepCytes Cyber Labs UK** and previously at **CDF UK**, gaining hands-on experience in threat intelligence and security operations within the UK cyber landscape.
 
-> `[B.Tech CSE]` Symbiosis Institute of Technology — 2025–Present
+> `[B.Tech CSE]` Symbiosis Institute of Technology — 2025–Present  
 > `[Diploma CE]` Darshan University — CGPA 8.82/10 — 2022–2025
 
 **Open To** → Security research roles · CTF collaborations · Defensive OSS · Community talks
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ---
 
@@ -178,10 +190,10 @@ A controlled **key-capture research module** built strictly for defensive endpoi
 ## Cyber Research Analyst Intern
 ### DeepCytes Cyber Labs UK &nbsp;·&nbsp; `Jun 2026 – Present` &nbsp;·&nbsp; 6-Month Internship
 
-Conducting active cybersecurity research at a UK-based threat intelligence firm — analyzing adversary TTPs, documenting emerging threats targeting UK/EU infrastructure, and contributing to detection engineering across the full threat intelligence lifecycle.
+Conducting active cybersecurity research at a UK-based threat intelligence firm — analysing adversary TTPs, documenting emerging threats targeting UK/EU infrastructure, and contributing to detection engineering across the full threat intelligence lifecycle.
 
 - Researching threat campaigns and producing structured intelligence reports aligned with MITRE ATT&CK
-- Analyzing malware behaviors in sandboxed environments; building detection signatures from behavioral indicators
+- Analysing malware behaviours in sandboxed environments; building detection signatures from behavioural indicators
 - Identifying web and network-layer vulnerabilities; mapping findings to ATT&CK techniques
 - Supporting incident case studies, forensic walkthroughs, and threat hunting playbook development
 
@@ -248,7 +260,7 @@ Led cybersecurity research projects focused on the UK threat landscape — manag
 
 `Jan 2025 – Present`
 
-Organizing tech events, cloud workshops, and developer sessions across the Mumbai region — engaging student and developer communities in Google Cloud, AI, and DevOps.
+Organising tech events, cloud workshops, and developer sessions across the Mumbai region — engaging student and developer communities in Google Cloud, AI, and DevOps.
 
 <br/>
 </td>
@@ -305,7 +317,7 @@ Coordinating cybersecurity and blockchain workshops at SIT Pune — managing spe
 [![Google Python](https://img.shields.io/badge/Google%20·%20Get%20Started%20with%20Python-Mar%202024-6EE7B7?style=for-the-badge&logo=google&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://www.coursera.org)&nbsp;
 [![Google Cybersecurity](https://img.shields.io/badge/Google%20·%20Cybersecurity%20Specialization-In%20Progress-38bdf8?style=for-the-badge&logo=google&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://www.coursera.org)
 
-[![Hedera](https://img.shields.io/badge/Hedera%20·%20Developer%20Course-Jun%202025-6EE7B7?style=for-the-badge&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://hedera.com)
+[![Hedera](https://img.shields.io/badge/Hedera%20·%20Developer%20Course-Jun%202025-6EE7B7?style=for-the-badge&logo=hedera&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://hedera.com)
 
 </div>
 
@@ -388,8 +400,8 @@ open_to:
 
 [![Gmail](https://img.shields.io/badge/Gmail-darplalani.me@gmail.com-6EE7B7?style=for-the-badge&logo=gmail&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](mailto:darplalani.me@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darplalani07-38bdf8?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://linkedin.com/in/darplalani07)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-darplalani08-6EE7B7?style=for-the-badge&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-darplalani.me-38bdf8?style=for-the-badge&logo=firefox&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://darplalani.me)
+[![GitHub](https://img.shields.io/badge/GitHub-darplalani08-e2e8f0?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=0d1117&color=161b22)](https://github.com/darplalani08)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-darplalani.me-a78bfa?style=for-the-badge&logo=firefoxbrowser&logoColor=a78bfa&labelColor=0d1117&color=1a1040)](https://darplalani.me)
 
 <br/>
 
@@ -397,6 +409,6 @@ open_to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2438,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
