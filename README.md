@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://darplalani.me"><img src="https://img.shields.io/badge/Portfolio-darplalani.me-FF3333?style=for-the-badge&logo=firefoxbrowser&logoColor=FF3333&labelColor=0d0000&color=1a0000"/></a>&nbsp;
+<a href="https://darplalani.com"><img src="https://img.shields.io/badge/Portfolio-darplalani.me-FF3333?style=for-the-badge&logo=firefoxbrowser&logoColor=FF3333&labelColor=0d0000&color=1a0000"/></a>&nbsp;
 <a href="https://linkedin.com/in/darplalani07"><img src="https://img.shields.io/badge/LinkedIn-darplalani07-FF3333?style=for-the-badge&logo=linkedin&logoColor=FF3333&labelColor=0d0000&color=1a0000"/></a>&nbsp;
 <a href="mailto:darplalani.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-contact-FF3333?style=for-the-badge&logo=gmail&logoColor=FF3333&labelColor=0d0000&color=1a0000"/></a>&nbsp;
 <a href="https://github.com/darplalani08"><img src="https://img.shields.io/badge/GitHub-darplalani08-FF3333?style=for-the-badge&logo=github&logoColor=FF3333&labelColor=0d0000&color=1a0000"/></a>
@@ -28,7 +28,7 @@
 B.Tech CSE student @ **Symbiosis Institute of Technology, Pune** — focused on **Cybersecurity & Digital Forensics**.
 
 🔴 Cyber Research Analyst Intern @ **DeepCytes Cyber Labs UK** *(Active)*  
-🔻 Cybersecurity PM Intern @ **CDF UK** *(Dec 2025 – Apr 2026)*
+🔻 Cybersecurity Research Intern @ **CSDF UK** *(Dec 2025 – Apr 2026)*
 
 > `[B.Tech CSE]` SIT Pune — 2025–Present  
 > `[Diploma CE]` Darshan University — CGPA 8.82 — 2022–2025
@@ -54,8 +54,8 @@ B.Tech CSE student @ **Symbiosis Institute of Technology, Pune** — focused on 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 01 | **[AEGIS](https://github.com/darplalani08)** — Reverse Proxy WAF. Intercepts HTTP/S, blocks SQLi & XSS, full forensic logging. | `Python` `Sockets` `Linux` | 🔴 Active |
-| 02 | **[SENTINEL](https://github.com/darplalani08)** — Honeypot that logs inbound probes (IP, port, payload) for threat recon analysis. | `Python` `Sockets` `VirtualBox` | ✅ Done |
-| 03 | **[GHOST](https://github.com/darplalani08)** — Defensive keylogger research module. Maps persistence techniques → IOC + detection notes. | `Python` `Linux` `VirtualBox` | ✅ Done |
+| 02 | **[HoneyPot Tracker](https://github.com/darplalani08)** — Honeypot that logs inbound probes (IP, port, payload) for threat recon analysis. | `Python` `Sockets` `VirtualBox` | ✅ Done |
+| 03 | **[Keylogger](https://github.com/darplalani08)** — Defensive keylogger research module. Maps persistence techniques → IOC + detection notes. | `Python` `Linux` `VirtualBox` | ✅ Done |
 
 ---
 
@@ -102,6 +102,6 @@ open_to  : Research roles · CTF collabs · Defensive OSS · Community talks
 [![Gmail](https://img.shields.io/badge/darplalani.me@gmail.com-FF3333?style=flat-square&logo=gmail&logoColor=FF3333&labelColor=0d0000)](mailto:darplalani.me@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/darplalani07-FF3333?style=flat-square&logo=linkedin&logoColor=FF3333&labelColor=0d0000)](https://linkedin.com/in/darplalani07)&nbsp;
 [![GitHub](https://img.shields.io/badge/darplalani08-FF3333?style=flat-square&logo=github&logoColor=FF3333&labelColor=0d0000)](https://github.com/darplalani08)&nbsp;
-[![Portfolio](https://img.shields.io/badge/darplalani.me-FF3333?style=flat-square&logo=firefoxbrowser&logoColor=FF3333&labelColor=0d0000)](https://darplalani.me)
+[![Portfolio](https://img.shields.io/badge/darplalani.com-FF3333?style=flat-square&logo=firefoxbrowser&logoColor=FF3333&labelColor=0d0000)](https://darplalani.com)
 
 </div>
