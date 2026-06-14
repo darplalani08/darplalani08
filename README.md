@@ -29,13 +29,11 @@
 
 ### `◈ ABOUT`
 
-CS Engineering student at **Symbiosis Institute of Technology, Pune** — specializing in **Cybersecurity and Digital Forensics**. My work sits at the intersection of defensive security engineering, ethical research, and adversarial analysis.
+CS Engineering student at **Symbiosis Institute of Technology, Pune** — specializing in **Cybersecurity and Digital Forensics**. I build tools for detection, investigation, and mitigation — not exploitation.
 
-I build tools oriented entirely toward **detection, investigation, and mitigation** — not exploitation. From WAF development and network honeypots to endpoint behavior research, every project is grounded in documented methodology and responsible disclosure.
+Active researcher at **DeepCytes Cyber Labs UK** and previously at **CDF UK**, gaining hands-on experience in threat intelligence and security operations within the UK cyber landscape.
 
-Active researcher at **DeepCytes Cyber Labs UK** and previously at **CDF UK** — building real-world experience in threat intelligence, vulnerability research, and security operations within the UK cyber landscape.
-
-> `[B.Tech CSE]` Symbiosis Institute of Technology, Pune — 2025–Present
+> `[B.Tech CSE]` Symbiosis Institute of Technology — 2025–Present
 > `[Diploma CE]` Darshan University — CGPA 8.82/10 — 2022–2025
 
 **Open To** → Security research roles · CTF collaborations · Defensive OSS · Community talks
@@ -68,7 +66,6 @@ Active researcher at **DeepCytes Cyber Labs UK** and previously at **CDF UK** �
 
 <br/>
 
-<!--  AEGIS  -->
 <table>
 <tr>
 <td width="100%">
@@ -77,30 +74,21 @@ Active researcher at **DeepCytes Cyber Labs UK** and previously at **CDF UK** �
 
 ### &nbsp; AEGIS &nbsp;·&nbsp; Reverse Proxy Web Application Firewall
 
-<br/>
+> *Intercept. Inspect. Neutralize. — Before the payload reaches the server.*
 
-> *Intercept. Inspect. Neutralize. — Before the payload ever reaches the server.*
-
-Aegis is an ongoing **Web Application Firewall** engineered as a transparent reverse proxy layer that sits between the public internet and the backend application. Every inbound HTTP/HTTPS request passes through its signature-based inspection engine in real time — payloads carrying SQLi, XSS, or anomalous request patterns are identified and dropped before they interact with application logic.
-
-Built around the principle that **understanding how attacks are structured is the only reliable way to stop them**, Aegis targets the OWASP Top 10 and generates full forensic logs — source IP, payload, matched rule, and timestamp — for every blocked request.
-
-<br/>
+A **reverse proxy WAF** that intercepts all inbound HTTP/HTTPS traffic, runs it through a signature-based inspection engine, and blocks SQLi, XSS, and anomalous request patterns before they reach the backend. Generates full forensic logs for every blocked request — source, payload, matched rule, and timestamp.
 
 | | |
 |:---|:---|
 | **Stack** | `Python` `Sockets` `HTTP Parsing` `Linux` |
-| **Architecture** | Transparent reverse proxy with real-time payload inspection and rule-based filtering engine |
-| **Focus Areas** | Packet Inspection · SQLi Detection · XSS Mitigation · Traffic Filtering · Request Anomaly Analysis |
-| **Security** | All development and testing conducted in isolated, air-gapped VM lab environments |
-| **Impact** | Intercepts and mitigates application-layer attack vectors before backend contact |
+| **Focus** | Packet Inspection · SQLi · XSS · Traffic Filtering · OWASP Top 10 |
+| **Security** | Isolated, air-gapped VM lab environments only |
 | **Status** | 🟡 &nbsp; Active Development |
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08/aegis-6EE7B7?style=flat-square&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
+[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-6EE7B7?style=flat-square&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6EE7B7)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=6EE7B7)&nbsp;
 ![WAF](https://img.shields.io/badge/WAF-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)&nbsp;
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)
 
@@ -110,7 +98,6 @@ Built around the principle that **understanding how attacks are structured is th
 
 <br/>
 
-<!--  SENTINEL  -->
 <table>
 <tr>
 <td width="100%">
@@ -119,31 +106,23 @@ Built around the principle that **understanding how attacks are structured is th
 
 ### &nbsp; SENTINEL &nbsp;·&nbsp; Honeypot Tracker & Log Analyzer
 
-<br/>
-
 > *Let adversaries reveal their playbook. Capture everything. Analyze ruthlessly.*
 
-Sentinel is a **network honeypot system** purpose-built for reconnaissance pattern analysis in isolated lab environments. It simulates reachable services to attract inbound connection attempts, captures full connection metadata — IP, port, timestamp, payload — and pipes everything into an automated log aggregation and triage pipeline.
-
-The result: a structured threat intelligence dataset surfacing which ports are most targeted, which scanning tools are most common, and which payloads are most frequently probed — all without exposing real infrastructure.
-
-<br/>
+A **network honeypot** that simulates reachable services to attract inbound connection attempts, capturing IP, port, timestamp, and payload metadata into an automated log aggregation pipeline. Surfaces the most targeted ports and frequent probe patterns — feeding structured threat intelligence without exposing real infrastructure.
 
 | | |
 |:---|:---|
 | **Stack** | `Python` `Sockets` `VirtualBox` |
-| **Scope** | Network-layer honeypot with inbound connection logging and payload metadata capture |
-| **Performance** | Automated aggregation pipeline; triage time reduced significantly vs manual review |
-| **Security** | VM-isolated operation only; full ethical deployment documentation and privacy guidelines |
-| **Impact** | Threat intelligence dataset of scanning patterns, probe frequencies, and payload fingerprints |
+| **Focus** | Inbound connection logging · Probe pattern analysis · Threat intelligence |
+| **Security** | VM-isolated only; full ethical deployment documentation |
 | **Status** | ✅ &nbsp; Complete |
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08/sentinel-38bdf8?style=flat-square&logo=github&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://github.com/darplalani08)&nbsp;
+[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-38bdf8?style=flat-square&logo=github&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://github.com/darplalani08)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8)&nbsp;
-![Networking](https://img.shields.io/badge/Network_Analysis-0d1117?style=flat-square&color=0d2233&labelColor=0d1117)&nbsp;
-![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-0d1117?style=flat-square&color=0d2233&labelColor=0d1117)
+![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-0d1117?style=flat-square&color=0d2233&labelColor=0d1117)&nbsp;
+![Network](https://img.shields.io/badge/Network_Analysis-0d1117?style=flat-square&color=0d2233&labelColor=0d1117)
 
 </td>
 </tr>
@@ -151,7 +130,6 @@ The result: a structured threat intelligence dataset surfacing which ports are m
 
 <br/>
 
-<!--  GHOST  -->
 <table>
 <tr>
 <td width="100%">
@@ -160,28 +138,20 @@ The result: a structured threat intelligence dataset surfacing which ports are m
 
 ### &nbsp; GHOST &nbsp;·&nbsp; Defensive KeyLogger Research Module
 
-<br/>
+> *Know how input-capture works. Then build the layer that stops it.*
 
-> *Know how input-capture works. Then build the detection layer that stops it.*
-
-Ghost is a controlled **key-capture research module** developed strictly for defensive endpoint security research. Built and tested exclusively in isolated VM environments, it reverse-engineers the techniques used by real-world keyloggers — persistence mechanisms, input-interception methods, and stealth behaviors — then translates each into **detection indicators and mitigation guidance** for endpoint protection systems.
-
-The final output is not a tool for attackers — it is a reference artifact for defenders: parsing scripts, IOC documentation, and remediation playbooks.
-
-<br/>
+A controlled **key-capture research module** built strictly for defensive endpoint security research. Studies input-interception and persistence mechanisms used by real-world malware, then outputs detection indicators, IOC documentation, and remediation guidance for endpoint protection teams — not a tool for attackers, a reference for defenders.
 
 | | |
 |:---|:---|
 | **Stack** | `Python` `Linux` `VirtualBox` |
-| **Scope** | Input-capture research module studying persistence and interception mechanisms |
-| **Performance** | Automated parsing scripts extracting meaningful IOCs from raw log streams |
-| **Security** | Isolated VM deployment only; documented chain-of-custody and safe handling procedures |
-| **Impact** | Detection indicators, IOC library, and remediation notes for endpoint protection teams |
+| **Focus** | Persistence mechanisms · Input-interception · IOC generation |
+| **Security** | Isolated VM deployment only; documented safe handling procedures |
 | **Status** | ✅ &nbsp; Complete |
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08/ghost-6EE7B7?style=flat-square&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
+[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-6EE7B7?style=flat-square&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6EE7B7)&nbsp;
 ![Endpoint](https://img.shields.io/badge/Endpoint_Security-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)&nbsp;
 ![Forensics](https://img.shields.io/badge/Digital_Forensics-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)
@@ -201,27 +171,19 @@ The final output is not a tool for attackers — it is a reference artifact for 
 <table>
 <tr>
 <td width="6" bgcolor="#6EE7B7">&nbsp;</td>
-<td width="94%" style="padding-left:16px">
+<td width="94%">
 
-<br/>
-
-**`CURRENT`** &nbsp;&nbsp; ![Status](https://img.shields.io/badge/●%20ACTIVE-6EE7B7?style=flat-square&labelColor=0d1117&color=0d3326)
+**`CURRENT`** &nbsp; ![Status](https://img.shields.io/badge/●%20ACTIVE-6EE7B7?style=flat-square&labelColor=0d1117&color=0d3326)
 
 ## Cyber Research Analyst Intern
 ### DeepCytes Cyber Labs UK &nbsp;·&nbsp; `Jun 2026 – Present` &nbsp;·&nbsp; 6-Month Internship
 
-Conducting active cybersecurity research at **DeepCytes Cyber Labs**, a UK-based threat intelligence and adversarial research firm. Embedded within a specialized analyst team focused on identifying, analyzing, and operationalizing intelligence on emerging threat vectors targeting UK and European infrastructure.
+Conducting active cybersecurity research at a UK-based threat intelligence firm — analyzing adversary TTPs, documenting emerging threats targeting UK/EU infrastructure, and contributing to detection engineering across the full threat intelligence lifecycle.
 
-The role spans the full threat intelligence lifecycle — from raw adversarial observation through structured TTP analysis, detection engineering, and dissemination of actionable security briefs to internal teams.
-
-**Key Responsibilities**
-
-- Researching emerging threats and adversary campaigns targeting UK infrastructure; producing structured threat intelligence reports aligned with MITRE ATT&CK and industry reporting standards
-- Analyzing malware samples and adversary TTPs in controlled sandboxed environments; documenting behavioral indicators and building detection signatures
-- Contributing to vulnerability research by systematically identifying and documenting weaknesses in web and network-layer systems
-- Mapping threat findings to **MITRE ATT&CK** techniques; developing detection logic and contributing to internal knowledge bases
-- Collaborating with senior analysts on incident case studies, forensic walkthroughs, and weekly security briefings
-- Supporting development of threat hunting playbooks and analyst-facing documentation for recurring attack patterns
+- Researching threat campaigns and producing structured intelligence reports aligned with MITRE ATT&CK
+- Analyzing malware behaviors in sandboxed environments; building detection signatures from behavioral indicators
+- Identifying web and network-layer vulnerabilities; mapping findings to ATT&CK techniques
+- Supporting incident case studies, forensic walkthroughs, and threat hunting playbook development
 
 <br/>
 
@@ -229,10 +191,7 @@ The role spans the full threat intelligence lifecycle — from raw adversarial o
 ![Malware](https://img.shields.io/badge/Malware_Analysis-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
 ![Vuln Research](https://img.shields.io/badge/Vulnerability_Research-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
 ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
-![Incident Analysis](https://img.shields.io/badge/Incident_Analysis-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
-![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-0d3326?style=flat-square&labelColor=0d1117)
-
-<br/>
+![Detection](https://img.shields.io/badge/Detection_Engineering-0d3326?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -243,36 +202,25 @@ The role spans the full threat intelligence lifecycle — from raw adversarial o
 <table>
 <tr>
 <td width="6" bgcolor="#38bdf8">&nbsp;</td>
-<td width="94%" style="padding-left:16px">
+<td width="94%">
 
-<br/>
-
-**`PREVIOUS`** &nbsp;&nbsp; ![Status](https://img.shields.io/badge/●%20COMPLETE-38bdf8?style=flat-square&labelColor=0d1117&color=0d2233)
+**`PREVIOUS`** &nbsp; ![Status](https://img.shields.io/badge/●%20COMPLETE-38bdf8?style=flat-square&labelColor=0d1117&color=0d2233)
 
 ## Cybersecurity Project Manager Intern
 ### Cybersecurity & Digital Forensics UK Pvt. Ltd. &nbsp;·&nbsp; `Dec 2025 – Apr 2026`
 
-Led and supported cybersecurity research projects with a focus on the **UK threat landscape** — managing project timelines, task allocation, and technical documentation across a cross-functional security team operating on live research deliverables.
+Led cybersecurity research projects focused on the UK threat landscape — managing timelines, task allocation, and documentation across a cross-functional security team.
 
-Gained exposure to how security research is structured at an organizational level, from initial risk scoping through to documented mitigation strategy and stakeholder reporting.
-
-**Key Responsibilities**
-
-- Led project planning across concurrent cybersecurity research workstreams; tracked milestones, managed task allocation, and owned delivery timelines
-- Identified and documented security risks across active research projects; proposed structured mitigation strategies with prioritized remediation roadmaps
-- Maintained documentation standards ensuring audit-ready, consistent reporting across all research deliverables
-- Collaborated with cross-functional teams including technical analysts and project stakeholders to improve security operations and operational efficiency
-- Contributed to internal security briefings summarizing findings, risk posture, and recommended mitigations
+- Identified security risks across projects and proposed structured mitigation strategies
+- Maintained audit-ready documentation and reporting standards across all deliverables
+- Coordinated team workflows and contributed to internal security briefings
 
 <br/>
 
 ![Security Research](https://img.shields.io/badge/Security_Research-0d2233?style=flat-square&labelColor=0d1117)&nbsp;
 ![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-0d2233?style=flat-square&labelColor=0d1117)&nbsp;
 ![Project Management](https://img.shields.io/badge/Project_Management-0d2233?style=flat-square&labelColor=0d1117)&nbsp;
-![Documentation](https://img.shields.io/badge/Technical_Documentation-0d2233?style=flat-square&labelColor=0d1117)&nbsp;
-![Cross-functional](https://img.shields.io/badge/Cross--Functional_Teams-0d2233?style=flat-square&labelColor=0d1117)
-
-<br/>
+![Documentation](https://img.shields.io/badge/Technical_Documentation-0d2233?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -296,17 +244,11 @@ Gained exposure to how security research is structured at an organizational leve
 
 <br/>
 
-![GDG](https://img.shields.io/badge/Google_Developer_Group-Cloud_Mumbai-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
+![GDG](https://img.shields.io/badge/GDG_Cloud-Mumbai-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
 
 `Jan 2025 – Present`
 
-<br/>
-
-Collaborating with GDG Cloud Mumbai to organize and run community tech events, cloud workshops, and developer innovation sessions across the Mumbai region.
-
-- Organizing workshops on **Google Cloud, AI/ML & DevOps**
-- Engaging student and developer communities in emerging tech
-- Supporting speaker coordination and event operations
+Organizing tech events, cloud workshops, and developer sessions across the Mumbai region — engaging student and developer communities in Google Cloud, AI, and DevOps.
 
 <br/>
 </td>
@@ -320,17 +262,11 @@ Collaborating with GDG Cloud Mumbai to organize and run community tech events, c
 
 <br/>
 
-![GDG](https://img.shields.io/badge/Google_Developer_Group-Cloud_Rajkot-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
+![GDG](https://img.shields.io/badge/GDG_Cloud-Rajkot-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
 
 `Aug 2025 – Present`
 
-<br/>
-
-Supporting GDG Cloud Rajkot in building a regional developer community through technical workshops, peer learning sessions, and cloud-focused innovation programs.
-
-- Promoting learning in **Google Cloud, AI & DevOps**
-- Supporting event planning and participant engagement
-- Bridging student communities with industry practitioners
+Supporting community tech events and peer learning sessions — promoting Google Cloud, AI, and modern DevOps practices among regional student communities.
 
 <br/>
 </td>
@@ -348,13 +284,7 @@ Supporting GDG Cloud Rajkot in building a regional developer community through t
 
 `Oct 2025 – Present`
 
-<br/>
-
-Coordinating cybersecurity and blockchain-focused events at SIT Pune — driving student engagement in ethical hacking, digital forensics, and blockchain innovation on campus.
-
-- Planning and running **cybersecurity & blockchain workshops**
-- Managing registrations, speaker liaison, and logistics
-- Promoting ethical hacking and forensics among students
+Coordinating cybersecurity and blockchain workshops at SIT Pune — managing speaker liaison, registrations, and driving student engagement in ethical hacking and digital forensics.
 
 <br/>
 </td>
@@ -425,38 +355,27 @@ Coordinating cybersecurity and blockchain-focused events at SIT Pune — driving
 
 ```yaml
 # ══════════════════════════════════════════════════════════
-#  OPERATOR   : Darp Lalani
-#  STATUS     : ONLINE ●
-#  CLEARANCE  : Cyber Research Analyst — DeepCytes Cyber Labs UK
-#  LOCATION   : Pune, India
+#  OPERATOR  : Darp Lalani
+#  STATUS    : ONLINE ●
+#  CLEARANCE : Cyber Research Analyst — DeepCytes Cyber Labs UK
+#  LOCATION  : Pune, India
 # ══════════════════════════════════════════════════════════
-
-active_roles:
-  - Cyber Research Analyst Intern  →  DeepCytes Cyber Labs UK
-  - Events Coordinator             →  Cyber Blockchain Club, SIT Pune
-  - Core Team Member               →  GDG Cloud Mumbai & Rajkot
 
 learning:
   - Google Cybersecurity Specialization — Coursera (In Progress)
-  - Advanced packet analysis and protocol dissection via Wireshark
-  - Linux privilege escalation, hardening, and post-exploitation defense
-  - MITRE ATT&CK framework — TTP mapping and detection engineering
+  - Advanced packet analysis · Linux hardening · MITRE ATT&CK
 
 building:
   - AEGIS WAF  →  Reverse Proxy Web Application Firewall (Active)
-  - Automated threat triage and log analysis tooling in Python
-  - Honeypot infrastructure for adversarial reconnaissance research
+  - Threat triage automation and log analysis tooling in Python
 
 exploring:
   - AI-driven threat detection and behavioral anomaly classification
-  - Digital forensics: artifact recovery and chain-of-custody workflows
-  - Structured incident response frameworks and playbook development
+  - Digital forensics · Incident response · Playbook development
 
 open_to:
-  - Cybersecurity research & analyst internship roles
-  - CTF team collaborations and red/blue team exercises
-  - Defensive security open-source contributions
-  - Community talks on ethical hacking and digital forensics
+  - Cybersecurity research & analyst roles · CTF collaborations
+  - Defensive security OSS · Community talks on ethical hacking
 ```
 
 ---
@@ -471,10 +390,6 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darplalani07-38bdf8?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://linkedin.com/in/darplalani07)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-darplalani08-6EE7B7?style=for-the-badge&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-darplalani.me-38bdf8?style=for-the-badge&logo=firefox&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://darplalani.me)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 <br/>
 
