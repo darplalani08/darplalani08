@@ -19,7 +19,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://darplalani.me">
+<a href="https://darplalani.com">
   <img src="https://img.shields.io/badge/◈_Portfolio-darplalani.me-FF3333?style=for-the-badge&logo=firefoxbrowser&logoColor=FF3333&labelColor=0d0000&color=1a0000"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/darplalani07">
