@@ -1,35 +1,42 @@
 <div align="center">
 
-<!-- CYBERSECURITY THEMED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2438,100:0d1117&height=200&section=header&text=%3C%2F%3E%20DARP%20LALANI&fontSize=52&fontColor=6EE7B7&fontAlignY=45&fontAlign=50&desc=%5B%20Threat%20Detection%20%5D%20%5B%20Digital%20Forensics%20%5D%20%5B%20Defensive%20Tooling%20%5D&descSize=13&descAlignY=70&descAlign=50&descColor=94a3b8&stroke=6EE7B7&strokeWidth=0" width="100%"/>
+<!-- GLITCH TYPING HEADER — NO BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=999999&color=FF0000&center=true&vCenter=true&width=800&height=80&lines=DARP+LALANI" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1500&color=FF3333&center=true&vCenter=true&width=800&height=36&lines=root%40kali%3A~%23+whoami;%5BTHREAT+DETECTION%5D+%5BDIGITAL+FORENSICS%5D+%5BDEFENSIVE+TOOLING%5D;Building+Tools+That+Protect%2C+Not+Exploit+%E2%80%94+Every+Line%2C+Every+Time;%3E_%+Initializing+security+protocols..." />
 
 <br/>
 
-<!-- TERMINAL TYPING LINE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1200&color=6EE7B7&center=true&vCenter=true&width=750&height=36&lines=root%40darp%3A~%23+whoami+--security-researcher;Building+Tools+That+Protect%2C+Not+Exploit+%E2%80%94+Every+Line%2C+Every+Time;Threat+Detection+%7C+Network+Security+%7C+Digital+Forensics+%7C+WAF+Development" />
+```
+██████╗  █████╗ ██████╗ ██████╗     ██╗      █████╗ ██╗      █████╗ ███╗   ██╗██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗    ██║     ██╔══██╗██║     ██╔══██╗████╗  ██║██║
+██║  ██║███████║██████╔╝██████╔╝    ██║     ███████║██║     ███████║██╔██╗ ██║██║
+██║  ██║██╔══██║██╔══██╗██╔═══╝     ██║     ██╔══██║██║     ██╔══██║██║╚██╗██║██║
+██████╔╝██║  ██║██║  ██║██║         ███████╗██║  ██║███████╗██║  ██║██║ ╚████║██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝         ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+```
 
 <br/>
 
-<!-- SOCIAL BADGES WITH LOGOS -->
+<!-- SOCIAL BADGES -->
 <a href="https://darplalani.me">
-  <img src="https://img.shields.io/badge/◈_Portfolio-darplalani.me-6EE7B7?style=for-the-badge&logo=firefoxbrowser&logoColor=6EE7B7&labelColor=0d1117&color=0d3326"/>
+  <img src="https://img.shields.io/badge/◈_Portfolio-darplalani.me-FF3333?style=for-the-badge&logo=firefoxbrowser&logoColor=FF3333&labelColor=0d0000&color=1a0000"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/darplalani07">
-  <img src="https://img.shields.io/badge/◈_LinkedIn-darplalani07-38bdf8?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=0d2233"/>
+  <img src="https://img.shields.io/badge/◈_LinkedIn-darplalani07-FF3333?style=for-the-badge&logo=linkedin&logoColor=FF3333&labelColor=0d0000&color=1a0000"/>
 </a>&nbsp;
 <a href="mailto:darplalani.me@gmail.com">
-  <img src="https://img.shields.io/badge/◈_Gmail-darplalani.me@gmail.com-6EE7B7?style=for-the-badge&logo=gmail&logoColor=6EE7B7&labelColor=0d1117&color=0d3326"/>
+  <img src="https://img.shields.io/badge/◈_Gmail-darplalani.me@gmail.com-FF3333?style=for-the-badge&logo=gmail&logoColor=FF3333&labelColor=0d0000&color=1a0000"/>
 </a>&nbsp;
 <a href="https://github.com/darplalani08">
-  <img src="https://img.shields.io/badge/◈_GitHub-darplalani08-e2e8f0?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=0d1117&color=161b22"/>
+  <img src="https://img.shields.io/badge/◈_GitHub-darplalani08-FF3333?style=for-the-badge&logo=github&logoColor=FF3333&labelColor=0d0000&color=1a0000"/>
 </a>
 
 <br/><br/>
 
-<!-- PROFILE STATS ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=darplalani08&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/darplalani08)&nbsp;
-[![Followers](https://img.shields.io/github/followers/darplalani08?style=for-the-badge&color=38bdf8&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=38bdf8)](https://github.com/darplalani08)&nbsp;
-[![Stars](https://img.shields.io/github/stars/darplalani08?style=for-the-badge&color=6EE7B7&labelColor=0d1117&label=TOTAL+STARS&logo=github&logoColor=6EE7B7)](https://github.com/darplalani08)
+[![Profile Views](https://komarev.com/ghpvc/?username=darplalani08&style=for-the-badge&color=FF0000&label=PROFILE+VIEWS&labelColor=0d0000)](https://github.com/darplalani08)&nbsp;
+[![Followers](https://img.shields.io/github/followers/darplalani08?style=for-the-badge&color=FF0000&labelColor=0d0000&label=FOLLOWERS&logo=github&logoColor=FF3333)](https://github.com/darplalani08)&nbsp;
+[![Stars](https://img.shields.io/github/stars/darplalani08?style=for-the-badge&color=FF0000&labelColor=0d0000&label=TOTAL+STARS&logo=github&logoColor=FF3333)](https://github.com/darplalani08)
 
 </div>
 
@@ -37,7 +44,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=darplalani08&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=94a3b8&icon_color=38bdf8&count_private=true&rank_icon=github"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=darplalani08&show_icons=true&hide_border=true&bg_color=0d0000&title_color=FF3333&text_color=cc0000&icon_color=FF0000&count_private=true&rank_icon=github"/>
 
 ### `◈ ABOUT`
 
@@ -62,7 +69,7 @@ Active researcher at **DeepCytes Cyber Labs UK** and previously at **CDF UK**, g
 
 | `LANGUAGES & FRAMEWORKS` | `SECURITY TOOLS` | `SYSTEMS & CLOUD` |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6EE7B7) ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=6EE7B7) ![JS](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=6EE7B7) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=6EE7B7) ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=6EE7B7) | ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=6EE7B7) ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=gnubash&logoColor=6EE7B7) ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=6EE7B7) ![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&logo=virtualbox&logoColor=6EE7B7) | ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=6EE7B7) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=6EE7B7) ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=6EE7B7) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=6EE7B7) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=6EE7B7) |
+| ![Python](https://img.shields.io/badge/Python-0d0000?style=flat-square&logo=python&logoColor=FF3333) ![C](https://img.shields.io/badge/C-0d0000?style=flat-square&logo=c&logoColor=FF3333) ![JS](https://img.shields.io/badge/JS-0d0000?style=flat-square&logo=javascript&logoColor=FF3333) ![SQL](https://img.shields.io/badge/SQL-0d0000?style=flat-square&logo=postgresql&logoColor=FF3333) ![Flask](https://img.shields.io/badge/Flask-0d0000?style=flat-square&logo=flask&logoColor=FF3333) | ![Wireshark](https://img.shields.io/badge/Wireshark-0d0000?style=flat-square&logo=wireshark&logoColor=FF3333) ![Nmap](https://img.shields.io/badge/Nmap-0d0000?style=flat-square&logo=gnubash&logoColor=FF3333) ![Burp](https://img.shields.io/badge/Burp_Suite-0d0000?style=flat-square&logo=portswigger&logoColor=FF3333) ![VirtualBox](https://img.shields.io/badge/VirtualBox-0d0000?style=flat-square&logo=virtualbox&logoColor=FF3333) | ![Linux](https://img.shields.io/badge/Linux-0d0000?style=flat-square&logo=linux&logoColor=FF3333) ![Bash](https://img.shields.io/badge/Bash-0d0000?style=flat-square&logo=gnubash&logoColor=FF3333) ![GCP](https://img.shields.io/badge/GCP-0d0000?style=flat-square&logo=googlecloud&logoColor=FF3333) ![Git](https://img.shields.io/badge/Git-0d0000?style=flat-square&logo=git&logoColor=FF3333) ![Docker](https://img.shields.io/badge/Docker-0d0000?style=flat-square&logo=docker&logoColor=FF3333) |
 
 <br/>
 
@@ -82,7 +89,7 @@ Active researcher at **DeepCytes Cyber Labs UK** and previously at **CDF UK**, g
 <tr>
 <td width="100%">
 
-<img align="left" width="46" src="https://img.shields.io/badge/01-0d1117?style=for-the-badge&color=0d3326&labelColor=0d1117"/>
+<img align="left" width="46" src="https://img.shields.io/badge/01-FF0000?style=for-the-badge&color=1a0000&labelColor=0d0000"/>
 
 ### &nbsp; AEGIS &nbsp;·&nbsp; Reverse Proxy Web Application Firewall
 
@@ -95,14 +102,14 @@ A **reverse proxy WAF** that intercepts all inbound HTTP/HTTPS traffic, runs it 
 | **Stack** | `Python` `Sockets` `HTTP Parsing` `Linux` |
 | **Focus** | Packet Inspection · SQLi · XSS · Traffic Filtering · OWASP Top 10 |
 | **Security** | Isolated, air-gapped VM lab environments only |
-| **Status** | 🟡 &nbsp; Active Development |
+| **Status** | 🔴 &nbsp; Active Development |
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-6EE7B7?style=flat-square&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6EE7B7)&nbsp;
-![WAF](https://img.shields.io/badge/WAF-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)&nbsp;
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)
+[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-FF3333?style=flat-square&logo=github&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://github.com/darplalani08)&nbsp;
+![Python](https://img.shields.io/badge/Python-0d0000?style=flat-square&logo=python&logoColor=FF3333)&nbsp;
+![WAF](https://img.shields.io/badge/WAF-FF3333?style=flat-square&color=1a0000&labelColor=0d0000)&nbsp;
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-FF3333?style=flat-square&color=1a0000&labelColor=0d0000)
 
 </td>
 </tr>
@@ -114,7 +121,7 @@ A **reverse proxy WAF** that intercepts all inbound HTTP/HTTPS traffic, runs it 
 <tr>
 <td width="100%">
 
-<img align="left" width="46" src="https://img.shields.io/badge/02-0d1117?style=for-the-badge&color=0d2233&labelColor=0d1117"/>
+<img align="left" width="46" src="https://img.shields.io/badge/02-FF0000?style=for-the-badge&color=1a0000&labelColor=0d0000"/>
 
 ### &nbsp; SENTINEL &nbsp;·&nbsp; Honeypot Tracker & Log Analyzer
 
@@ -131,10 +138,10 @@ A **network honeypot** that simulates reachable services to attract inbound conn
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-38bdf8?style=flat-square&logo=github&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://github.com/darplalani08)&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8)&nbsp;
-![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-0d1117?style=flat-square&color=0d2233&labelColor=0d1117)&nbsp;
-![Network](https://img.shields.io/badge/Network_Analysis-0d1117?style=flat-square&color=0d2233&labelColor=0d1117)
+[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-FF3333?style=flat-square&logo=github&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://github.com/darplalani08)&nbsp;
+![Python](https://img.shields.io/badge/Python-0d0000?style=flat-square&logo=python&logoColor=FF3333)&nbsp;
+![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-FF3333?style=flat-square&color=1a0000&labelColor=0d0000)&nbsp;
+![Network](https://img.shields.io/badge/Network_Analysis-FF3333?style=flat-square&color=1a0000&labelColor=0d0000)
 
 </td>
 </tr>
@@ -146,7 +153,7 @@ A **network honeypot** that simulates reachable services to attract inbound conn
 <tr>
 <td width="100%">
 
-<img align="left" width="46" src="https://img.shields.io/badge/03-0d1117?style=for-the-badge&color=0d3326&labelColor=0d1117"/>
+<img align="left" width="46" src="https://img.shields.io/badge/03-FF0000?style=for-the-badge&color=1a0000&labelColor=0d0000"/>
 
 ### &nbsp; GHOST &nbsp;·&nbsp; Defensive KeyLogger Research Module
 
@@ -163,10 +170,10 @@ A controlled **key-capture research module** built strictly for defensive endpoi
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-6EE7B7?style=flat-square&logo=github&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://github.com/darplalani08)&nbsp;
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6EE7B7)&nbsp;
-![Endpoint](https://img.shields.io/badge/Endpoint_Security-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)&nbsp;
-![Forensics](https://img.shields.io/badge/Digital_Forensics-0d1117?style=flat-square&color=0d3326&labelColor=0d1117)
+[![View Repository](https://img.shields.io/badge/◈%20View%20Repository-github.com/darplalani08-FF3333?style=flat-square&logo=github&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://github.com/darplalani08)&nbsp;
+![Python](https://img.shields.io/badge/Python-0d0000?style=flat-square&logo=python&logoColor=FF3333)&nbsp;
+![Endpoint](https://img.shields.io/badge/Endpoint_Security-FF3333?style=flat-square&color=1a0000&labelColor=0d0000)&nbsp;
+![Forensics](https://img.shields.io/badge/Digital_Forensics-FF3333?style=flat-square&color=1a0000&labelColor=0d0000)
 
 </td>
 </tr>
@@ -182,10 +189,10 @@ A controlled **key-capture research module** built strictly for defensive endpoi
 
 <table>
 <tr>
-<td width="6" bgcolor="#6EE7B7">&nbsp;</td>
+<td width="6" bgcolor="#FF0000">&nbsp;</td>
 <td width="94%">
 
-**`CURRENT`** &nbsp; ![Status](https://img.shields.io/badge/●%20ACTIVE-6EE7B7?style=flat-square&labelColor=0d1117&color=0d3326)
+**`CURRENT`** &nbsp; ![Status](https://img.shields.io/badge/●%20ACTIVE-FF3333?style=flat-square&labelColor=0d0000&color=1a0000)
 
 ## Cyber Research Analyst Intern
 ### DeepCytes Cyber Labs UK &nbsp;·&nbsp; `Jun 2026 – Present` &nbsp;·&nbsp; 6-Month Internship
@@ -199,11 +206,11 @@ Conducting active cybersecurity research at a UK-based threat intelligence firm 
 
 <br/>
 
-![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
-![Malware](https://img.shields.io/badge/Malware_Analysis-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
-![Vuln Research](https://img.shields.io/badge/Vulnerability_Research-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0d3326?style=flat-square&labelColor=0d1117)&nbsp;
-![Detection](https://img.shields.io/badge/Detection_Engineering-0d3326?style=flat-square&labelColor=0d1117)
+![Threat Intel](https://img.shields.io/badge/Threat_Intelligence-1a0000?style=flat-square&labelColor=0d0000)&nbsp;
+![Malware](https://img.shields.io/badge/Malware_Analysis-1a0000?style=flat-square&labelColor=0d0000)&nbsp;
+![Vuln Research](https://img.shields.io/badge/Vulnerability_Research-1a0000?style=flat-square&labelColor=0d0000)&nbsp;
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-1a0000?style=flat-square&labelColor=0d0000)&nbsp;
+![Detection](https://img.shields.io/badge/Detection_Engineering-1a0000?style=flat-square&labelColor=0d0000)
 
 </td>
 </tr>
@@ -213,10 +220,10 @@ Conducting active cybersecurity research at a UK-based threat intelligence firm 
 
 <table>
 <tr>
-<td width="6" bgcolor="#38bdf8">&nbsp;</td>
+<td width="6" bgcolor="#800000">&nbsp;</td>
 <td width="94%">
 
-**`PREVIOUS`** &nbsp; ![Status](https://img.shields.io/badge/●%20COMPLETE-38bdf8?style=flat-square&labelColor=0d1117&color=0d2233)
+**`PREVIOUS`** &nbsp; ![Status](https://img.shields.io/badge/●%20COMPLETE-990000?style=flat-square&labelColor=0d0000&color=1a0000)
 
 ## Cybersecurity Project Manager Intern
 ### Cybersecurity & Digital Forensics UK Pvt. Ltd. &nbsp;·&nbsp; `Dec 2025 – Apr 2026`
@@ -229,10 +236,10 @@ Led cybersecurity research projects focused on the UK threat landscape — manag
 
 <br/>
 
-![Security Research](https://img.shields.io/badge/Security_Research-0d2233?style=flat-square&labelColor=0d1117)&nbsp;
-![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-0d2233?style=flat-square&labelColor=0d1117)&nbsp;
-![Project Management](https://img.shields.io/badge/Project_Management-0d2233?style=flat-square&labelColor=0d1117)&nbsp;
-![Documentation](https://img.shields.io/badge/Technical_Documentation-0d2233?style=flat-square&labelColor=0d1117)
+![Security Research](https://img.shields.io/badge/Security_Research-1a0000?style=flat-square&labelColor=0d0000)&nbsp;
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-1a0000?style=flat-square&labelColor=0d0000)&nbsp;
+![Project Management](https://img.shields.io/badge/Project_Management-1a0000?style=flat-square&labelColor=0d0000)&nbsp;
+![Documentation](https://img.shields.io/badge/Technical_Documentation-1a0000?style=flat-square&labelColor=0d0000)
 
 </td>
 </tr>
@@ -256,7 +263,7 @@ Led cybersecurity research projects focused on the UK threat landscape — manag
 
 <br/>
 
-![GDG](https://img.shields.io/badge/GDG_Cloud-Mumbai-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
+![GDG](https://img.shields.io/badge/GDG_Cloud-Mumbai-FF3333?style=flat-square&logo=google&logoColor=FF3333&labelColor=0d0000)
 
 `Jan 2025 – Present`
 
@@ -274,7 +281,7 @@ Organising tech events, cloud workshops, and developer sessions across the Mumba
 
 <br/>
 
-![GDG](https://img.shields.io/badge/GDG_Cloud-Rajkot-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
+![GDG](https://img.shields.io/badge/GDG_Cloud-Rajkot-FF3333?style=flat-square&logo=google&logoColor=FF3333&labelColor=0d0000)
 
 `Aug 2025 – Present`
 
@@ -292,7 +299,7 @@ Supporting community tech events and peer learning sessions — promoting Google
 
 <br/>
 
-![CBC](https://img.shields.io/badge/Cyber_Blockchain_Club-SIT_Pune-6EE7B7?style=flat-square&logoColor=white&labelColor=0d1117)
+![CBC](https://img.shields.io/badge/Cyber_Blockchain_Club-SIT_Pune-FF3333?style=flat-square&logoColor=FF3333&labelColor=0d0000)
 
 `Oct 2025 – Present`
 
@@ -314,10 +321,10 @@ Coordinating cybersecurity and blockchain workshops at SIT Pune — managing spe
 
 <br/>
 
-[![Google Python](https://img.shields.io/badge/Google%20·%20Get%20Started%20with%20Python-Mar%202024-6EE7B7?style=for-the-badge&logo=google&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://www.coursera.org)&nbsp;
-[![Google Cybersecurity](https://img.shields.io/badge/Google%20·%20Cybersecurity%20Specialization-In%20Progress-38bdf8?style=for-the-badge&logo=google&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://www.coursera.org)
+[![Google Python](https://img.shields.io/badge/Google%20·%20Get%20Started%20with%20Python-Mar%202024-FF3333?style=for-the-badge&logo=google&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://www.coursera.org)&nbsp;
+[![Google Cybersecurity](https://img.shields.io/badge/Google%20·%20Cybersecurity%20Specialization-In%20Progress-990000?style=for-the-badge&logo=google&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://www.coursera.org)
 
-[![Hedera](https://img.shields.io/badge/Hedera%20·%20Developer%20Course-Jun%202025-6EE7B7?style=for-the-badge&logo=hedera&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](https://hedera.com)
+[![Hedera](https://img.shields.io/badge/Hedera%20·%20Developer%20Course-Jun%202025-FF3333?style=for-the-badge&logo=hedera&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://hedera.com)
 
 </div>
 
@@ -329,25 +336,25 @@ Coordinating cybersecurity and blockchain workshops at SIT Pune — managing spe
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=darplalani08&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=94a3b8&icon_color=38bdf8&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=darplalani08&show_icons=true&hide_border=true&bg_color=0d0000&title_color=FF3333&text_color=cc0000&icon_color=FF0000&count_private=true&rank_icon=github" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darplalani08&layout=compact&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=94a3b8&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darplalani08&layout=compact&hide_border=true&bg_color=0d0000&title_color=FF3333&text_color=cc0000&langs_count=8" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=darplalani08&hide_border=true&background=0d1117&stroke=6EE7B7&ring=38bdf8&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=94a3b8&dates=94a3b8&currStreakNum=6EE7B7&sideNums=38bdf8" width="680"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=darplalani08&hide_border=true&background=0d0000&stroke=FF3333&ring=FF0000&fire=FF3333&currStreakLabel=FF3333&sideLabels=990000&dates=660000&currStreakNum=FF3333&sideNums=FF0000" width="680"/>
 
 <br/><br/>
 
 ### `◈ TROPHIES`
 
-<img src="https://github-profile-trophy.vercel.app/?username=darplalani08&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=darplalani08&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 
 <br/>
 
 ### `◈ CONTRIBUTION ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darplalani08&theme=tokyo-night&bg_color=0d1117&color=6EE7B7&line=38bdf8&point=6EE7B7&hide_border=true&area=true&area_color=6ee7b715" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darplalani08&bg_color=0d0000&color=FF3333&line=FF0000&point=FF3333&hide_border=true&area=true&area_color=FF000015" width="100%"/>
 
 <br/>
 
@@ -398,10 +405,10 @@ open_to:
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-darplalani.me@gmail.com-6EE7B7?style=for-the-badge&logo=gmail&logoColor=6EE7B7&labelColor=0d1117&color=0d3326)](mailto:darplalani.me@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-darplalani07-38bdf8?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=0d2233)](https://linkedin.com/in/darplalani07)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-darplalani08-e2e8f0?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=0d1117&color=161b22)](https://github.com/darplalani08)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-darplalani.me-a78bfa?style=for-the-badge&logo=firefoxbrowser&logoColor=a78bfa&labelColor=0d1117&color=1a1040)](https://darplalani.me)
+[![Gmail](https://img.shields.io/badge/Gmail-darplalani.me@gmail.com-FF3333?style=for-the-badge&logo=gmail&logoColor=FF3333&labelColor=0d0000&color=1a0000)](mailto:darplalani.me@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darplalani07-FF3333?style=for-the-badge&logo=linkedin&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://linkedin.com/in/darplalani07)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-darplalani08-FF3333?style=for-the-badge&logo=github&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://github.com/darplalani08)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-darplalani.me-FF3333?style=for-the-badge&logo=firefoxbrowser&logoColor=FF3333&labelColor=0d0000&color=1a0000)](https://darplalani.me)
 
 <br/>
 
@@ -409,6 +416,6 @@ open_to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2438,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:1a0000,100:0d0000&height=60&section=footer)
 
 </div>
